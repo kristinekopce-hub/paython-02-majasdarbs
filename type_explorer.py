@@ -1,0 +1,2 @@
+# STR
+vieta = "Riga"
