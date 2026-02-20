@@ -29,3 +29,4 @@ try:
     stundas_laiks = float(input("Ievadi stundas laiku: "))
 except ValueError:
     print("Kļūda: Lūdzu, ievadi derīgu stundas laiku.")
+    
